@@ -5,7 +5,7 @@
 int age;
 
 int main() {
-
+	std::cout << "What is your age?\n";
 	std::cin >> age;
 
 
@@ -20,4 +20,8 @@ int main() {
 		std::cout << " in a few years ;)";
 		
 	}
+
+
+
+	
 }
