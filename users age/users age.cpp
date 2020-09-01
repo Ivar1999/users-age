@@ -17,7 +17,7 @@ int main() {
 	}
 	
 	if (age <= 10) {
-		std::cout << " soon^tm";
+		std::cout << " in a few years ;)";
 		
 	}
 }
